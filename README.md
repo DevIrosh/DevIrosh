@@ -12,14 +12,6 @@
 
 <br/>
 
-<h3 align="left">🔥 Streak Stats:</h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevIrosh&theme=tokyonight&hide_border=true&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&sideLabels=00C9FF&dates=ffffff" alt="GitHub Streak" />
-</div>
-
-<br/>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
