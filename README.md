@@ -4,18 +4,10 @@
 
 <br/>
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">📊 Most Used Languages:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevIrosh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=00C9FF&icon_color=00C9FF&text_color=ffffff&bg_color=0d1117" height="195" alt="GitHub Stats" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIrosh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=00C9FF&text_color=ffffff&bg_color=0d1117" height="195" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevIrosh&theme=tokyonight&hide_border=true&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF" alt="GitHub Streak" />
 </div>
 
 <br/>
