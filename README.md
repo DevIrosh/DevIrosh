@@ -19,7 +19,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevIrosh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DevIrosh&theme=discord&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
