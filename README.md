@@ -4,6 +4,14 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevIrosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIrosh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+</div>
+
+<br/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
