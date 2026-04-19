@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Hi+There!+I'm+Inura+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;Flutter+%26+React+Enthusiast+%E2%9A%9B%EF%B8%8F;Building+Amazing+Things+with+Code+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Hi+There!+I'm+Inura+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;Flutter+%26+React+Enthusiast+%E2%9A%9B%EF%B8%8F;Crafting+Scalable+Web+%26+Mobile+Apps+%E2%9A%99%EF%B8%8F;Passionate+about+Clean+Code+%26+Design+%F0%9F%8E%AF" alt="Typing SVG" />
 </div>
 
 <br/>
