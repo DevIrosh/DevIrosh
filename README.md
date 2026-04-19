@@ -14,12 +14,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevIrosh&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&title_color=00C9FF&text_color=ffffff&bg_color=0d1117" height="180" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIrosh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=00C9FF&text_color=ffffff&bg_color=0d1117" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIrosh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=00C9FF&text_color=ffffff&bg_color=0d1117" height="200" alt="Top Languages" />
 </div>
 
 ---
